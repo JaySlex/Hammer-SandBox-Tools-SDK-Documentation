@@ -1,0 +1,572 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/ilesb/OneDrive/Bureau/Documentation/docfx/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "KK4PASMSs+L4QQgyt4YcnA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "H5frWk4fYGIWHpFNp3BdfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details1.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details1.html",
+          "hash": "Ob2i3biRHfnC41rYT7ExdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details2.html",
+          "hash": "dp0aQzoF93KSiz5JseCc3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/details3.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/details3.html",
+          "hash": "PoCItRprXZ5BRj8U9wupbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "GLRfdC3xj7m7i2jM5LHw0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "Qa+J8iLzjX4bt0hHg8BZ0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details2_image1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details2_image1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details2_image2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details2_image2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details2_image3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details2_image3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details_image1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details_image1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details_image2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details_image2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details_image3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details_image3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/details_image4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/details_image4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/intro_image1.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/intro_image1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/intro_image2.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/intro_image2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/intro_image3.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/intro_image3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/intro_image4.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/intro_image4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "ndIKTtwMr2OQXA3cgsJE3Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d1.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d1.html",
+          "hash": "zeGXKE9qgy3h6a1ONgcUeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d10.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d10.html",
+          "hash": "q8JQ6r4GZuwFmGx4hspBJA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d2.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d2.html",
+          "hash": "ZQT8wEBzCN7k4TtcD4R/Hg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d3.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d3.html",
+          "hash": "KC9qjubgpSAmSlbb0hG/hg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d4.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d4.html",
+          "hash": "MmeEWGcn6majHrEueiHYkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d5.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d5.html",
+          "hash": "Zl/YphBOHiVRXUwgzRm85Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d6.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d6.html",
+          "hash": "i7N7XHw9UY6Gen6MBHNzVg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d7.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d7.html",
+          "hash": "qCe7oe3C7TH5kCl8xQ9lrw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d8.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d8.html",
+          "hash": "qK1G+PmlH2oIe1BzBF4HRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/d9.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/d9.html",
+          "hash": "wWt/IJRS2Gb9oF31Bh5blw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "map/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "map/intro.html",
+          "hash": "NK79bhb+GrkTUMhPCicWpg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "map/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "map/toc.html",
+          "hash": "b56fPIe/WmkX/fsJUHsETA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d1.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d1.html",
+          "hash": "2vysEPKjUJI6AKhW14Drvw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d10.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d10.html",
+          "hash": "cTuQg9KorbY8/4gDeHi1Bw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d2.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d2.html",
+          "hash": "CbSfF86gGEKMYQvkPK5ENQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d3.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d3.html",
+          "hash": "OwH2E7CMdO2KXzql11Riog=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d4.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d4.html",
+          "hash": "ekYH5hja1qdrKpBUCp62Fg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d5.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d5.html",
+          "hash": "BnVeVPvzuP1VgfAZ0TToeg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d6.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d6.html",
+          "hash": "3hJG2yu743a+LY1pJC7zSQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d7.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d7.html",
+          "hash": "UH9W5yezb1JbwaNgJTmkMA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d8.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d8.html",
+          "hash": "8BMwZpxeX5UX30+L9Plp3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/d9.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/d9.html",
+          "hash": "sbJ8qFK/CjvIcOUSKh2ZFw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "prop/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "prop/intro.html",
+          "hash": "3XX400Jk/J62zbDGWT+enQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "prop/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "prop/toc.html",
+          "hash": "b56fPIe/WmkX/fsJUHsETA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "y3TSA3oyV3Yu3VEql0hgMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 28,
+          "skipped_file_count": 28
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
